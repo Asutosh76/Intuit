@@ -1,0 +1,672 @@
+[
+{
+	"id" : "1001",
+	"brandName" : "Maruti",
+	"modelName" : "VXI Plus",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "9,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1002",
+	"brandName" : "Tata",
+	"modelName" : "Punch",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "8,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1003",
+	"brandName" : "Toyota",
+	"modelName" : "Fortuner",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "6,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1004",
+	"brandName" : "Mahindra",
+	"modelName" : "Scorpio",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "6,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1005",
+	"brandName" : "Hyundai",
+	"modelName" : "Creta",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "5,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1006",
+	"brandName" : "Kia",
+	"modelName" : "Seltos",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "6,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1007",
+	"brandName" : "Honda",
+	"modelName" : "Amaze",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "7,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1008",
+	"brandName" : "BMW",
+	"modelName" : "X4",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "8,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1009",
+	"brandName" : "Tata",
+	"modelName" : "Tiago",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "9,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+},
+{
+	"id" : "1010",
+	"brandName" : "Maruti",
+	"modelName" : "Swift",
+	"imageUrls" : "https://www.cartrade.com/pictures/tata.jpg",
+	"basicInformation" : {
+		"onRoadPrice" : "10,00,000",
+		"offers" : "1 Offer",
+		"userRating" : "4.2",
+		"emi" : "₹ 5,000",
+		"insurance" : "₹ 9,000",
+		"serviceCost" : "₹ 3,387"
+	},
+	"engineInformation" : {
+		"engineType" : "F8D Petrol Engine",
+		"noOfCylinder" : "3 Cylinder Cars",
+		"transmissionType" : "Manual"
+	},
+	"fuelPerformance" : {
+		"fuelType" : "Petrol",
+		"mileage" : "20.0 kmpl",
+		"fuelTankCapacity" : "35.0 (Litres)",
+		"emissionNormCompliance" : "BS VI",
+		"topSpeed" : "80 kmph"
+	},
+	"tyreInformation" : {
+		"frontBrakeType" :"Disc",
+		"rearBrakeType" : "Drum",
+		"tyreSize" : "145/80 R12",
+		"tyreType" :"Tubeless Tyres",
+		"wheelSize" : "12"
+	},
+	"dimensions" : {
+		"length" : "3445",
+		"width" : "1515",
+		"height" : "1475"
+	},
+	"comfortInformation" : {
+		"powerSteering" : "Yes",
+		"powerWindowsFront" : "Yes",
+		"powerWindowsRear" : "false"
+	},
+	"interior" : {
+		"tachometer" : "false",
+		"fabricUpholstery" : "true"
+	},
+	"exterior" : {
+		"availableColors" : "Red",
+		"bodyType" : "Hatchback",
+		"adjustableHeadlights" : "true"
+	},
+	"safety" : {
+		"antiLockBrakingSystem" : "true",
+		"centralLocking" : "true",
+		"powerDoorLocks" : "true",
+		"childSafetyLocks" : "true"
+	},
+	"entertainmentInformation" : {
+		"radio" : "true",
+		"speakers" : "true",
+		"carAutoPlay" : "true"
+	},
+	"warranty" : {
+		"warranty" : "true"
+	},
+	"status" : "new"
+}
+]
